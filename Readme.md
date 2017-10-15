@@ -1,11 +1,11 @@
 # NAME
 
-bitcoin-on-debian - compile and install Bitcoin Core on Debian Jessie with ease
+bitcoin-on-debian - compile and install Bitcoin Core on Debian Stretch (or Jessie) with ease
 
 # DESCRIPTION
 
 A simple Makefile that will do what's needed to get Bitcoin Core built from
-source, to installed, on your Debian Jessie box.
+source, to installed, on your Debian Stretch (or Jessie) box.
 
 # INSTALLATION
 
@@ -26,7 +26,7 @@ Feel free to fork the repository and submit pull requests :)
 
 # DEPENDENCIES
 
-* Debian Jessie
+* Debian Stretch (or Jessie)
 
 # AUTHOR
 
